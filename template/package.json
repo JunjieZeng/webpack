@@ -27,7 +27,7 @@
   "dependencies": {
     "vue": "^2.5.2",
     "element-ui": "^2.13.0",
-    "auroui": "^0.2.4",
+    "auroui": "^1。5。19",
     "ajv": "^6.10.2",
     "bounty": "^1.2.1",
     "clipboard": "^2.0.4",
